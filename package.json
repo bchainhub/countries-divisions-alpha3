@@ -1,0 +1,37 @@
+{
+  "name": "@cryptohub/countries-divisions-alpha3",
+  "version": "1.0.0",
+  "homepage": "https://github.com/cryptohub-digital/countries-divisions-alpha3",
+  "description": "A comprehensive JSON module containing primary administrative divisions for countries based on the ISO 3166-1 Alpha-3 standard.",
+  "main": "index.js",
+  "repository": "git@github.com:cryptohub-digital/countries-divisions-alpha3.git",
+  "author": "CRYPTO ▪ HUB® (https://cryptohub.digital)",
+  "license": "CORE",
+	"keywords": [
+		"countries",
+		"divisions",
+		"iso3166-1",
+		"alpha-3",
+		"regions",
+    "states",
+    "provinces",
+    "territories",
+    "districts",
+    "counties",
+    "prefectures",
+    "departments",
+    "municipalities",
+    "communes",
+    "parishes",
+    "cantons",
+    "townships",
+    "boroughs"
+	],
+	"bugs": {
+		"url": "https://github.com/cryptohub-digital/countries-divisions-alpha3/issues"
+	},
+  "files": [
+    "index.js",
+    "countries-divisions.json"
+  ]
+}
